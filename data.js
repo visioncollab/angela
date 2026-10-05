@@ -5,78 +5,61 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Angela Aliaga | Agente Inmobiliario",
     whatsappPublicaciones: "WhatsApp: https://wa.me/51943898101",
     whatsappDestino: "",
-    titulo: "Calendario Setiembre - Octubre 2026",
-    rangoFechas: "Semana del martes 29 al sábado 03 de octubre",
+    titulo: "Calendario Octubre 2026",
+    rangoFechas: "Semana del martes 6 al sábado 10 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 29 de setiembre",
-            imagenes: ["img/29.jpg"],
-            copy: `🏗️ ¿Qué es el flipping inmobiliario?
+            diaSemana: "Martes 6 de octubre",
+            imagenes: ["img/6.jpg"],
+            copy: `Lo inmobiliario parece complicado hasta que alguien te lo explica bien. 💡
 
-Comprar ➡️ Mejorar ➡️ Vender.
+Como agente, mi propósito no es solo mostrar propiedades, es ayudarte a entender:
 
-Suena simple, pero ten en cuenta:
+📊 Qué estás comprando
+💰 Qué estás pagando
+📈 Qué potencial tiene
+🔎 Qué detalles analizar
 
-🔨 La remodelación cuesta
-⏳ El tiempo es dinero
-💰 Los impuestos suman
-📊 El mercado cambia
-
-No todo “antes y después” termina en una buena inversión. 💡`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 01 de octubre",
-            imagenes: ["img/1.jpg"],
-            copy: `📍 Un departamento en Surco con espacio para tu propia terraza
-
-Ubicación estratégica y aires libres para seguir creciendo o construir tu zona BBQ.
-
-💰 USD 130,000 (Negociable)
-
-¿Por qué es una gran oportunidad?
-📐 90 m² + aires: Espacio en el piso 8 con escalera directa al piso 9.
-🛏️ 4 dormitorios y 3 baños: Incluye habitación extra arriba.
-🍳 Distribución clásica: Cocina cerrada, lavandería y vista a la calle.
-🚗 Comodidad: 1 estacionamiento en sótano.
-📍 Súper conectado: Av. Guardia Civil (cerca a bancos, colegios y comercio).
-
-Un lienzo en blanco para personalizarlo a tu medida. 💡
-
-📲 ¿Agendamos una visita para que lo conozcas? Escríbeme.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 02 de octubre",
-            imagenes: ["img/2.jpg"],
-            copy: `🌳 ¿Por qué Surco es el favorito de las familias?
-
-Vivir aquí es sinónimo de calidad de vida asegurada:
-
-🍃 El distrito más verde: Parques en cada esquina para desconectar.
-📍 Súper conectado: Colegios top, centros comerciales (Jockey Plaza) y avenidas clave.
-🚓 Tranquilidad total: Zonas residenciales 100% seguras.
-📈 Inversión inteligente: Alta demanda y revalorización constante.`
+Soy Angela. Hagamos que lo inmobiliario sea fácil de entender. 💙`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 03 de octubre",
-            imagenes: ["img/3.jpg"],
-            copy: `🏡 ¿Comprar o vender una propiedad te genera estrés?
+            diaSemana: "Jueves 8 de octubre",
+            imagenes: ["img/8.png"],
+            copy: `🚢 ¡Feliz 8 de octubre a todos!
+Un día para hacer una pausa, recordar el coraje de nuestra tripulación en Angamos y llevar nuestra bandera con orgullo. ¡Un gran día para cada uno de ustedes! 🇵🇪💙`
+        },
 
-Soy Angela Aliaga, tu agente inmobiliario, y me encargo de todo el proceso para que tú solo disfrutes el resultado.
+        {
+            tipo: "video",
+            diaSemana: "Viernes 9 de octubre",
+            imagenes: ["img/9.jpg"],
+            copy: `📍 Depa en Surco con aires libres: ¡Construye tu propia terraza! | 💵 USD 130,000 (Negociable)
 
-¿Cómo te ayudo?
-🔍 Búsqueda exacta: Opciones a tu medida y presupuesto.
-💰 Negociación experta: Aseguro el mejor trato para tu inversión.
-⚖️ Cero papeleos: Gestión legal 100% segura y sin dolores de cabeza.
-⏱️ Ahorro de tiempo: Yo hago el trabajo pesado, tú tomas la decisión.
+Excelente ubicación en Av. Guardia Civil, rodeado de colegios, bancos y comercios. Un inmueble con gran potencial para seguir creciendo y armar tu propia zona de parrillas.
 
-Tu patrimonio merece estar en manos de un profesional. 💡`
+Detalles del inmueble:
+✔ Espacio: 90 m² (Piso 8) + aires libres con escalera directa al piso 9.
+✔ Distribución: 4 dormitorios (uno en el nivel superior) y 3 baños.
+✔ Ambientes: Cocina cerrada, lavandería y excelente vista a la calle.
+✔ Comodidad: Incluye 1 cochera en sótano.
+
+💡 Un lienzo en blanco listo para que lo personalices a tu medida.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 10 de octubre",
+            imagenes: ["img/10.jpg"],
+            copy: `📍 TENDENCIA: Los depas Pet-Friendly se alquilan más rápido 🐶🐱
+
+En Lima, las propiedades que aceptan mascotas se ocupan hasta un 40% más rápido. Hoy, inquilinos y compradores priorizan:
+
+✔ Cercanía a parques para los paseos diarios.
+✔ Zonas pet-friendly dentro del edificio (como áreas de baño).
+✔ Pisos resistentes y de fácil limpieza.`
         }
     ]
 };
