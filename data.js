@@ -6,74 +6,75 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51943898101",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 13 al sábado 17 de octubre",
+    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 13 de octubre",
-            imagenes: ["img/13.jpg"],
-            copy: `🏢 ¿Qué hace que el valor de un distrito crezca?
+            diaSemana: "Martes 20 de octubre",
+            imagenes: ["img/20.jpg"],
+            copy: `Home office: ¿Realmente necesitas una habitación completa? 💻
 
-No es magia. ✨ Una zona se valoriza de verdad cuando suma:
+No siempre. Un buen espacio de trabajo puede integrarse perfectamente en:
 
-🚇 Nuevas vías y accesos.
-🏗️ Proyectos en desarrollo.
-🛍️ Mayor comercio y servicios.
-🏫 Oferta educativa.
+🛋️ La sala.
+🛏️ Una habitación multifuncional.
+🪟 Ese rincón bien iluminado que no usas.
 
-Cuando el entorno evoluciona, el mercado inmobiliario también lo hace.
+Las casas de hoy deben ser flexibles.
+Hoy es tu oficina, mañana un cuarto de visitas... y el próximo año, quién sabe.
 
-💡 Aprende a invertir mirando lo que viene, no solo lo que existe hoy. 📈`
+Más que los metros cuadrados, lo que importa es cómo los aprovechas. 💡`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 15 de octubre",
-            imagenes: ["img/15.jpg"],
-            copy: `📍 Departamento en Surco con aires libres: ¡Construye tu propia terraza!
+            diaSemana: "Jueves 22 de octubre",
+            imagenes: ["img/22.jpg"],
+            copy: `🏢 Departamento con Aires en Surco: ¡Crea tu propia terraza!
 💰 USD 130,000 (Negociable)
 
-Ubicación estratégica en Av. Guardia Civil, rodeado de colegios, bancos y comercios. ¡El espacio perfecto para armar tu propia zona de parrillas!
+📍 Ubicación estratégica: Av. Guardia Civil. Cerca de colegios, bancos y comercios principales.
 
-✨ Características:
-✔ Área: 90 m² (Piso 8) + aires libres en el piso 9 (con escalera directa).
-✔ Distribución: 4 dormitorios (uno en el nivel superior) y 3 baños.
-✔ Ambientes: Cocina cerrada, lavandería y excelente vista a la calle.
-✔ Comodidad: Incluye 1 cochera en sótano.
+¿Qué te ofrece?
+✅ Área: 90 m² (Piso 8) + aires libres en el Piso 9 (con acceso directo).
+✅ Distribución: 4 dormitorios (1 en el nivel superior) y 3 baños.
+✅ Ambientes: Cocina cerrada, lavandería y linda vista a la calle.
+✅ Incluye: 1 cochera en sótano.
 
-💡 Un lienzo en blanco listo para que lo personalices a tu medida.`
+✨ El gran atractivo: Un lienzo en blanco en el nivel superior para diseñar tu terraza privada, zona de parrillas o espacio social a tu gusto.
+
+📩 Escríbeme y agendemos una visita. 👇`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 16 de octubre",
-            imagenes: ["img/16.jpg"],
-            copy: `🐶🐱 ¿Tu mascota también debería elegir tu próximo departamento?
+            diaSemana: "Viernes 23 de octubre",
+            imagenes: ["img/23.jpg"],
+            copy: `¿Qué significa realmente "calidad de vida" al elegir dónde vivir? 🌿
 
-Si es parte de tu familia, su bienestar es clave al decidir dónde vivir. Antes de mudarte, asegúrate de revisar:
+No es solo tener un departamento bonito. También es poder decir:
 
-🐾 ¿El reglamento del edificio es realmente pet-friendly?
-📏 ¿Existen restricciones de tamaño, cantidad o raza?
-🌳 ¿Hay parques o áreas verdes cercanas?
-🛋️ ¿La distribución del espacio es segura y cómoda para ellos?
+🚶 "Puedo salir a caminar tranquilo."
+🌳 "Tengo un parque a pocos pasos."
+☕ "Mis lugares favoritos me quedan cerca."
+🚗 "Gano tiempo y evito el tráfico."
 
-💡 Encontrar un lugar bonito es importante, pero encontrar un hogar donde todos vivan felices es mucho mejor. 🏡❤️`
+Al final, no estás buscando solo cuatro paredes... estás buscando un estilo de vida. 💡`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 17 de octubre",
-            imagenes: ["img/17.jpg"],
-            copy: `🏢 ¿Por qué los departamentos pequeños son el nuevo gran negocio en Lima?
+            diaSemana: "Sábado 24 de octubre",
+            imagenes: ["img/24.jpg"],
+            copy: `3 cosas que NO le suman valor a tu propiedad (aunque creas que sí) ❌🏠
 
-La tendencia es clara: los formatos de 35m² a 50m² se venden y alquilan rapidísimo.
+1️⃣ Remodelaciones demasiado estrafalarias: Un diseño ultra personalizado puede gustarte a ti, pero restarle atractivo al comprador general.
 
-¿La razón?
-✅ Altísima demanda de jóvenes profesionales.
-✅ Menor ticket de inversión inicial.
-✅ Rentabilidad dual: ideales para alquiler tradicional o Airbnb.
+2️⃣ El valor sentimental: La historia y los recuerdos no influyen en la tasación del mercado.
 
-💡 Menos metros cuadrados, pero mayor velocidad de retorno para tu bolsillo.`
+3️⃣ Muebles a medida: Rara vez aumentan el precio final; el comprador suele preferir adaptar sus propios espacios.
+
+El valor real lo define la zona, el mercado y la demanda actual, no lo que le invertiste en gustos personales.`
         }
     ]
 };
