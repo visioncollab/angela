@@ -6,75 +6,68 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51943898101",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
+    rangoFechas: "Semana del martes 27 al sábado 31 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 20 de octubre",
-            imagenes: ["img/20.jpg"],
-            copy: `Home office: ¿Realmente necesitas una habitación completa? 💻
+            diaSemana: "Martes 27 de octubre",
+            imagenes: ["img/27.jpg"],
+            copy: `🎃 ¿La casa de tus sueños o tu peor pesadilla? 👻
 
-No siempre. Un buen espacio de trabajo puede integrarse perfectamente en:
+Antes de comprar, cuidado con estas sorpresas:
 
-🛋️ La sala.
-🛏️ Una habitación multifuncional.
-🪟 Ese rincón bien iluminado que no usas.
+🚩 Humedad y filtraciones ocultas.
+🚩 Vecinos demasiado ruidosos.
+🚩 Remodelaciones más costosas de lo esperado.
+🚩 Reparaciones que siempre quedan pendientes.
+🚩 Espacios que no te dejan revisar.
 
-Las casas de hoy deben ser flexibles.
-Hoy es tu oficina, mañana un cuarto de visitas... y el próximo año, quién sabe.
+🏡 ¡Que el único susto sea el de Halloween!
 
-Más que los metros cuadrados, lo que importa es cómo los aprovechas. 💡`
+🕵️‍♀️ Inspecciona, pregunta y verifica antes de comprar.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 22 de octubre",
-            imagenes: ["img/22.jpg"],
-            copy: `🏢 Departamento con Aires en Surco: ¡Crea tu propia terraza!
-💰 USD 130,000 (Negociable)
+            diaSemana: "Jueves 29 de octubre",
+            imagenes: ["img/29.jpg"],
+            copy: `🏢 ¡DEPARTAMENTO CON AIRES EN VENTA EN SURCO!
 
-📍 Ubicación estratégica: Av. Guardia Civil. Cerca de colegios, bancos y comercios principales.
+📍 Av. Guardia Civil, cerca de colegios y comercios.
 
-¿Qué te ofrece?
-✅ Área: 90 m² (Piso 8) + aires libres en el Piso 9 (con acceso directo).
-✅ Distribución: 4 dormitorios (1 en el nivel superior) y 3 baños.
-✅ Ambientes: Cocina cerrada, lavandería y linda vista a la calle.
-✅ Incluye: 1 cochera en sótano.
+💰 USD 130,000 (negociable)
 
-✨ El gran atractivo: Un lienzo en blanco en el nivel superior para diseñar tu terraza privada, zona de parrillas o espacio social a tu gusto.
+✅ 90 m² + aires en el piso 9.
+✅ 4 dormitorios y 3 baños.
+✅ Cocina cerrada y lavandería.
+✅ Vista a la calle.
+✅ 1 cochera en sótano.
 
-📩 Escríbeme y agendemos una visita. 👇`
+🌿 ¡Crea tu propia terraza! Aprovecha los aires para diseñar un espacio a tu gusto, sujeto a autorización.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 23 de octubre",
-            imagenes: ["img/23.jpg"],
-            copy: `¿Qué significa realmente "calidad de vida" al elegir dónde vivir? 🌿
+            diaSemana: "Viernes 30 de octubre",
+            imagenes: ["img/30.jpg"],
+            copy: `🏡 ¿Casa o departamento? Depende de tu estilo de vida.
 
-No es solo tener un departamento bonito. También es poder decir:
+Antes de elegir, considera:
 
-🚶 "Puedo salir a caminar tranquilo."
-🌳 "Tengo un parque a pocos pasos."
-☕ "Mis lugares favoritos me quedan cerca."
-🚗 "Gano tiempo y evito el tráfico."
+🐾 ¿Tienes mascotas?
+💻 ¿Trabajas desde casa?
+🌳 ¿Necesitas espacios al aire libre?
+📍 ¿Prefieres vivir cerca de servicios y comercios?
+💡 No existe una opción perfecta para todos.
 
-Al final, no estás buscando solo cuatro paredes... estás buscando un estilo de vida. 💡`
+Tu hogar debe adaptarse a tus necesidades, tu rutina y tu presupuesto. 🏡`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 24 de octubre",
-            imagenes: ["img/24.jpg"],
-            copy: `3 cosas que NO le suman valor a tu propiedad (aunque creas que sí) ❌🏠
-
-1️⃣ Remodelaciones demasiado estrafalarias: Un diseño ultra personalizado puede gustarte a ti, pero restarle atractivo al comprador general.
-
-2️⃣ El valor sentimental: La historia y los recuerdos no influyen en la tasación del mercado.
-
-3️⃣ Muebles a medida: Rara vez aumentan el precio final; el comprador suele preferir adaptar sus propios espacios.
-
-El valor real lo define la zona, el mercado y la demanda actual, no lo que le invertiste en gustos personales.`
+            diaSemana: "Sábado 31 de octubre",
+            imagenes: ["img/31.jpg"],
+            copy: `🎶 Un buen vals, recuerdos inolvidables y el orgullo de nuestras raíces. Hoy tenemos muchos motivos para celebrar. ¡Feliz Día de la Canción Criolla! 🇵🇪`
         }
     ]
 };
