@@ -6,68 +6,66 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51943898101",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
+    rangoFechas: "Semana del martes 17 al sábado 21 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 10 de noviembre",
-            imagenes: ["img/10.jpg"],
-            copy: `🏡 ¿TU CASA TIENE ESPACIO PARA LOS MEJORES MOMENTOS?
+            diaSemana: "Martes 17 de noviembre",
+            imagenes: ["img/17.jpg"],
+            copy: `🏡 ¿Tu casa tiene buena acústica?
 
-No necesitas una sala enorme, sino un hogar donde puedas compartir una cena, celebrar y disfrutar de quienes más quieres. ❤️
+El ruido exterior, los vecinos o el eco pueden afectar tu comodidad diaria.
 
-✨ Porque un buen hogar no se mide solo en metros cuadrados, sino en los momentos que permite vivir.`
+🔇 Un buen aislamiento acústico ayuda a crear ambientes más tranquilos y confortables.
+✨ Porque un buen hogar no solo debe verse bien, también debe sentirse bien.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 12 de noviembre",
-            imagenes: ["img/12.jpg"],
-            copy: `🏡 ¡DEPA CON AIRES PROPIOS EN SURCO!
+            diaSemana: "Jueves 19 de noviembre",
+            imagenes: ["img/19.jpg"],
+            copy: `🏡 TIP INMOBILIARIO: ¡PREPARA TU CASA PARA VENDER!
 
-✨ Más espacio para vivir y la posibilidad de crear tu propia terraza.
+Una buena primera impresión puede marcar la diferencia.
 
-📍 Av. Guardia Civil – Surco
-💰 USD 130,000 (negociable)
+✨ Ordena y despeja los ambientes.
+☀️ Aprovecha la luz natural.
+🔧 Repara los pequeños desperfectos.
 
-✅ 90 m² + aires independizados
-✅ 4 dormitorios y 3 baños
-✅ Sala-comedor, cocina y lavandería
-✅ Piso 9 con vista a la calle
-✅ 1 cochera en sótano
-
-🌿 ¡Dale forma a tu próximo hogar!
-
-📩 Escríbeme y coordinemos una visita.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 13 de noviembre",
-            imagenes: ["img/13.jpg"],
-            copy: `🏡 ¿TU CASA TIENE ESPACIO PARA TODO… MENOS PARA EL DESORDEN?
-
-Ropa, maletas, documentos y objetos que se acumulan con el tiempo.
-
-✨ Un hogar funcional no solo necesita ambientes amplios, sino también espacios de almacenamiento bien aprovechados.
-
-🔑 Porque vivir cómodo también significa tener cada cosa en su lugar.`
+¡Una propiedad bien presentada puede atraer más compradores!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 14 de noviembre",
-            imagenes: ["img/14.jpg"],
-            copy: `🏡 ¿POR QUÉ SURCO SIGUE SIENDO UNA GRAN OPCIÓN PARA VIVIR? 🌳
+            diaSemana: "Viernes 20 de noviembre",
+            imagenes: ["img/20.jpg"],
+            copy: `🏡 ¿Pensando en comprar, vender o alquilar?
 
-Porque elegir dónde vivir también es elegir cómo disfrutar tu día a día.
+¡Todo comienza con una buena conversación! 💬
+Si tienes dudas, buscas una propiedad o necesitas asesoría inmobiliaria, estoy aquí para ayudarte.
 
-🌿 Áreas verdes: parques y espacios para disfrutar en familia.
-🛍️ Todo cerca: colegios, supermercados, restaurantes y centros comerciales.
-🚗 Conectividad: acceso a importantes avenidas como Primavera, Benavides y Javier Prado.
-🏘️ Variedad: desde departamentos modernos hasta casas familiares en distintas zonas del distrito.
+✨ Escríbeme por WhatsApp y demos juntos el siguiente paso.`
+        },
 
-✨ Surco combina comodidad, servicios y diferentes estilos de vida.`
+        {
+            tipo: "video",
+            diaSemana: "Sábado 21 de noviembre",
+            imagenes: ["img/21.jpg"],
+            copy: `🏡 ¡MÁS ESPACIO PARA TI EN SURCO!
+
+✨ Departamento con aires propios, ideal para disfrutar de mayor amplitud y proyectar una terraza a tu estilo.
+
+📍 Av. Guardia Civil – Surco
+💰 US$ 130,000 (negociable)
+📐 90 m² + aires independizados
+🛏️ 4 dormitorios | 🚿 3 baños
+🛋️ Sala-comedor, cocina y lavandería
+🏢 Piso 9 con vista exterior
+🚗 1 cochera en sótano
+
+🌿 ¡Un espacio con mucho potencial para convertirlo en tu próximo hogar!
+
+📲 Escríbeme y agenda tu visita.`
         }
     ]
 };
